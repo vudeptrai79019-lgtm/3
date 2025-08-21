@@ -5,8 +5,8 @@ headers = {
     'Referer': '',
     'sec-ch-ua': '"Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"',
     'sec-ch-ua-mobile': '?0',
-    'baggage': 'sentry-environment=production,sentry-release=740e16f266fa4963a8d9ded3409a4c6a,sentry-public_key=d75f7cb747cd4fe8ac03973ae3d39fec,sentry-trace_id=f5df0560e296ea85128b2a0b5b105f56,sentry-sample_rand=0.46471945597863906',
-    'sentry-trace': 'f5df0560e296ea85128b2a0b5b105f56-98f3b723c2d06ce3',
+    'baggage': 'sentry-environment=production,sentry-release=740e16f266fa4963a8d9ded3409a4c6a,sentry-public_key=d75f7cb747cd4fe8ac03973ae3d39fec,sentry-trace_id=25f5ec088d97da72b6436e3c88ef2b66,sentry-sample_rand=0.7877055144602547',
+    'sentry-trace': '25f5ec088d97da72b6436e3c88ef2b66-a384d3601f54c955',
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
     'content-type': 'application/json',
 }
@@ -53,6 +53,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
